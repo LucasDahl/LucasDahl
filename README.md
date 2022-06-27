@@ -1,5 +1,7 @@
 ### Hello there! 👋
 
+
+
 <!-- Language stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDahl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -8,6 +10,11 @@
 
 <!-- Report Card -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDahl)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+  [Portfolio](https://www.developerdahl.com)
+</p>
 
 <!--
 **LucasDahl/LucasDahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
