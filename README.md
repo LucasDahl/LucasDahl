@@ -15,7 +15,7 @@
 <!-- Links -->
 
 <p align="center">
-  [Website](https://www.developerdahl.com)
+  ([Website](https://www.developerdahl.com))
 </p>
 
 
