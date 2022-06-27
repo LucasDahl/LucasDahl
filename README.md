@@ -12,10 +12,9 @@
 
 <br> <!-- Making space -->
 
-
+[Portfolio](https://www.developerdahl.com?style=centerme)
 <p align="center">
-This site was built using [GitHub Pages](https://pages.github.com/).
-  [Portfolio](https://www.developerdahl.com)
+  
 </p>
 
 <!--
