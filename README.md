@@ -8,10 +8,9 @@ I am currently a student at the University of Washington studying Computer Scien
 <!-- stats -->
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<LucasDahl>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDahla&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<LucasDahl>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDahl&show_icons=true&theme=radical)
 
 <br> <!-- Making space -->
 
