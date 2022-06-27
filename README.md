@@ -9,17 +9,21 @@ I am currently a student at the University of Washington studying Computer Scien
 
 <br> <!-- Making space -->
 
-<!-- Report Card -->
+<!-- Report Card 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDahl)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <br> <!-- Making space -->
 
 <!-- Links -->
 
 <p align="center">
-  <a href = "https://www.developerdahl.com">Portfolio</a>
-  <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/"LinkedIn</a>
+  <tb>
+    <tr>   <a href = "https://www.developerdahl.com">Portfolio</a> </tr>
+    <tr> <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/"LinkedIn</a> </tr>
+  </tb>
 </p>
+
 
 
 <!--
