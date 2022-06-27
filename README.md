@@ -18,10 +18,11 @@ I am currently a student at the University of Washington studying Computer Scien
 <!-- Links -->
 
 <p align="center">
-  <tb>
-    <tr>   <a href = "https://www.developerdahl.com">Portfolio</a> </tr>
-    <tr> <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/"LinkedIn</a> </tr>
-  </tb>
+  <a href = "https://www.developerdahl.com">Portfolio</a>
+</p>
+
+<p align="center">
+   <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/"LinkedIn</a>
 </p>
 
 
