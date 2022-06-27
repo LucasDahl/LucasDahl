@@ -12,10 +12,12 @@
 
 <br> <!-- Making space -->
 
-[Portfolio](https://www.developerdahl.com?style=centerme)
+<! Links -->
+
 <p align="center">
-  
+  [https://www.developerdahl.com](https://www.developerdahl.com)
 </p>
+
 
 <!--
 **LucasDahl/LucasDahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
