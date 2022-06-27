@@ -20,7 +20,7 @@ I am currently a student at the University of Washington studying Computer Scien
 
 ---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="Java Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift Logo" width="50" height="50"/> 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="Java Logo" width="50" height="50"/>
 
