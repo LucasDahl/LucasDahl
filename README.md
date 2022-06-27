@@ -12,10 +12,10 @@
 
 <br> <!-- Making space -->
 
-<! Links -->
+<!-- Links -->
 
 <p align="center">
-  [https://www.developerdahl.com](https://www.developerdahl.com)
+  [Website](https://www.developerdahl.com)
 </p>
 
 
