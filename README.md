@@ -1,9 +1,11 @@
 ### Hello there! 👋
 
+<!-- Intro -->
+I am currently a student at the University of Washington studying Computer Science. I will be graduating with a Bachelors of Science in MArch of 2023. I also try to practice programming and computer science topics in my free time and learn Unity to develop small games. I have made a few apps on both the App Store and the Google Play store and hope to develop more soon. Feel free to contact me with any questions you may have!
 
 
 <!-- Language stats -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDahl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDahl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br> <!-- Making space -->
 
@@ -15,7 +17,8 @@
 <!-- Links -->
 
 <p align="center">
-  <a href="https://www.developerdahl.com">Website</a>
+  <a href = "https://www.developerdahl.com">Portfolio</a>
+  <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/"LinkedIn</a>
 </p>
 
 
