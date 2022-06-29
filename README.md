@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 <!-- Intro -->
-I am currently a student at the University of Washington studying Computer Science. I will be graduating with a Bachelors of Science in MArch of 2023. I also try to practice programming and computer science topics in my free time and learn Unity to develop small games. I have made a few apps on both the App Store and the Google Play store and hope to develop more soon. Feel free to contact me with any questions you may have!
+I am currently a student at the University of Washington studying Computer Science. I will be graduating with a Bachelors of Science in March of 2023. I also try to practice programming and computer science topics in my free time and learn Unity to develop small games. I have made a few apps on both the App Store and the Google Play store and hope to develop more soon. Feel free to contact me with any questions you may have!
 
 <br> <!-- Making space -->
 
@@ -32,7 +32,8 @@ I am currently a student at the University of Washington studying Computer Scien
 
 <p align = "center">
   <a href = "https://www.developerdahl.com">Portfolio</a> |
-  <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/">LinkedIn</a>
+  <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/">LinkedIn</a> |
+   <a href = "mailto:lucas@developerdahl.com" target = "_blank">
 </p>
 
 
