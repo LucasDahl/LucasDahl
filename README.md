@@ -2,7 +2,7 @@
 
 <!-- Intro -->
 
-I am currently a student at the University of Washington studying Computer Science. I will be graduating with a Bachelors of Science in March of 2023. I also try to practice programming and studying computer science topics in my free time. I also use Unity to develop small games, but I am starting to make more significant games. I have made a few apps on both the App Store and the Google Play store and hope to develop more soon. Feel free to contact me with any questions you may have, or check out my portfolio website(link below) to check out my projects!
+I am currently a student at the University of Washington studying Computer Science. I will be graduating with a Bachelors of Science in March of 2023. I also practice programming and study computer science topics in my free time. I also use Unity to develop small games, but I am starting to make more significant games. I have made a few apps on both the App Store and the Google Play store and hope to develop more soon. Feel free to contact me with any questions you may have, or check out my portfolio website(link below) to check out my projects!
 
 <br> <!-- Making space -->
 
