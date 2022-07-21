@@ -48,9 +48,6 @@ I am currently a student at the University of Washington studying Computer Scien
 - 🤔 I’m looking for help with ...
 -->
 - 💬 Ask me aboutAnything!
-- 📫 How to reach me: Through my protfolio website
-<!--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: Through my protfolio website is perferred, or email at lucas@developerdahl.com
+
 
