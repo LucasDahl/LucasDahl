@@ -43,11 +43,11 @@ I am currently a student at the University of Washington studying Computer Scien
 
 - 🔭 I’m currently working on a Unity project I call Project Ikigai
 - 🌱 I’m currently learning Computer Science through school, and Unity through self taugh methods
+- 💬 Ask me aboutAnything!
+- 📫 How to reach me: Through my protfolio website is perferred, or email at lucas@developerdahl.com
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me aboutAnything!
-- 📫 How to reach me: Through my protfolio website is perferred, or email at lucas@developerdahl.com
-
 
