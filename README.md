@@ -35,7 +35,7 @@ I am currently a student at the University of Washington studying Computer Scien
 
 <p align = "center">
   <a href = "https://www.developerdahl.com">Portfolio</a> |
-  <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/">LinkedIn</a>
+  <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/">LinkedIn</a> |
   <a href = "https://github.com/Lucasdx12"/>School Github</a>
 </p>
 
