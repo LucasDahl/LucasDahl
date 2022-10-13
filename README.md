@@ -4,6 +4,7 @@
 
 I am currently a student at the University of Washington studying Computer Science. I will be graduating with a Bachelors of Science in March of 2023. I practice programming and study computer science topics in my free time, along with using Unity to develop small games. I have made a few apps and games that are on both the App Store and the Google Play store and hope to develop more soon. Feel free to contact me with any questions you may have, or check out my portfolio website(link below) to check out my projects!
 
+
 <br> <!-- Making space -->
 
 <!-- stats -->
@@ -35,6 +36,7 @@ I am currently a student at the University of Washington studying Computer Scien
 <p align = "center">
   <a href = "https://www.developerdahl.com">Portfolio</a> |
   <a href = "https://www.linkedin.com/in/lucas-dahl-54b337ab/">LinkedIn</a>
+  <a href = "https://github.com/Lucasdx12"/>School Github</a>
 </p>
 
 
